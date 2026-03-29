@@ -1,9 +1,9 @@
 # API Documentation
 
-## Attendance Marker System - Complete API Reference
+## Attendance Marker System - Complete API Reference (MongoDB MVC)
 
 **Base URL:** `http://localhost:8000`  
-**API Version:** 2.0.0  
+**API Version:** 3.0.0  
 **Documentation:** `/docs` (Swagger UI) or `/redoc` (ReDoc)
 
 ---
